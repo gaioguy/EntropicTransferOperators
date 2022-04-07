@@ -11,3 +11,8 @@ matplotlib.rc('image',cmap='viridis')
 prop_cycle = plt.rcParams['axes.prop_cycle']
 colors = prop_cycle.by_key()['color']
 
+from ipywidgets import IntProgress
+from IPython.display import display
+
+
+
