@@ -2,7 +2,7 @@
 
 The code in this repository is the one used to perform the experiments in
 
-[O. Junge, D. Matthes, B. Schmitzer: Entropic transfer operators, Nonlinearity, 37, 065004.]([https://arxiv.org/abs/?](https://arxiv.org/abs/2204.04901)
+[O. Junge, D. Matthes, B. Schmitzer: Entropic transfer operators, Nonlinearity, 37, 065004.](https://arxiv.org/abs/2204.04901)
 
 ## 15.11.24 update
 
